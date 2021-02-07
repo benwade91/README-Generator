@@ -6,11 +6,11 @@
 The app is meant to help the user create a quality README file for the project they are working on. The app allows the user to input a title, description, project image, usage instructions, contribution requirements, testing information, licence selection, and addresses to recieve questions and comments. 
 
 ## Table of Contents:
-* [Installation](#installation)
+* [Installation](#Installation)
 * [Usage](#usage)
 * [Contributions](#contributions)
 * [Testing](#testing)
-* [License](#license)
+* [License](#Licenses)
 
 ## Installation 
 This app requires the "inquirer.js" package from node as well as the "file system" package, which is local to node.
