@@ -88,7 +88,7 @@ promptUser()
         return generatePage(readmeData);
     })
     .then(readmeContent => {
-        return fs.writeFile('./dist/readme.md', readmeContent, err => {
+        return fs.writeFile('./dist/README.md', readmeContent, err => {
            if (err) {
                 reject(err);
                 return;
