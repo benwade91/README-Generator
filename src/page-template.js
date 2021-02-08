@@ -42,22 +42,22 @@ ${data.description}
 * [Testing](#testing)
 * [License](#license)
 
-## Installation 
+## Installation <a name="installation"/>
 ${data.install}
 
-## Usage 
+## Usage <a name="usage"/>
 ${data.usage}
 
-## Contribution
+## Contribution <a name="comntributions"/>
 ${data.contribution}
 
-## Testing 
+## Testing <a name="testing"/>
 ${data.testing}
 
-## Licences
+## Licences <a name="licence"/>
 ${licenceInfo(data.licences)}
 
-## Questions
+## Questions <a name="questions"/>
 Questions? Comments? Please Reach out to me by [Email](${data.email}) or on [Github](github.com/${data.github}).
 
 
