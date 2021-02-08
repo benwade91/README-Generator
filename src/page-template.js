@@ -48,7 +48,7 @@ ${data.install}
 ## Usage <a name="usage"/>
 ${data.usage}
 
-## Contribution <a name="comntributions"/>
+## Contribution <a name="contributions"/>
 ${data.contribution}
 
 ## Testing <a name="testing"/>
