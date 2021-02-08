@@ -40,7 +40,8 @@ ${data.description}
 * [Usage](#usage)
 * [Contributions](#contributions)
 * [Testing](#testing)
-* [License](#license)
+* [Licence](#licence)
+* [Questions](#questions)
 
 ## Installation <a name="installation"/>
 ${data.install}
